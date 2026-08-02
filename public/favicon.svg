@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Reel Estate Singapore</title>
+  <rect width="64" height="64" rx="8" fill="#111310"/>
+  <path d="M17 43V21h14.2c6.6 0 10.8 3.6 10.8 9 0 3.8-2.1 6.7-5.8 8l7.2 5H35l-6.1-4.4h-4V43H17Zm7.9-10.7h5.6c2.2 0 3.6-.9 3.6-2.5 0-1.7-1.4-2.5-3.6-2.5h-5.6v5Z" fill="#f7f9f5"/>
+  <circle cx="47" cy="18" r="4" fill="#205d35"/>
+</svg>
