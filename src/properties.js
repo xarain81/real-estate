@@ -1,0 +1,86 @@
+export const districtFilters = ["All", "D15", "D04", "D03", "D09", "D19"];
+
+export const bedroomFilters = ["All", "2BR", "3BR"];
+
+export const properties = [
+  {
+    id: 1,
+    name: "Amber Park",
+    address: "16 Amber Gardens, Singapore 439961",
+    price: 3300000,
+    tenure: "Freehold",
+    top: "2023",
+    type: "Condominium",
+    area: 1108,
+    psf: 2978,
+    bedrooms: "3BR",
+    district: "D15",
+    image: "/images/properties/amber-park.webp",
+    imageAlt:
+      "Amber Park condominium towers and sheltered entrance framed by tropical landscaping",
+  },
+  {
+    id: 2,
+    name: "Seascape @ Sentosa Cove",
+    address: "55 Cove Way, Singapore 098307",
+    price: 4446000,
+    tenure: "99-year Leasehold",
+    top: "2012",
+    type: "Condominium",
+    area: 2164,
+    psf: 2054,
+    bedrooms: "3BR",
+    district: "D04",
+    image: "/images/properties/seascape-sentosa-cove.webp",
+    imageAlt:
+      "Seascape at Sentosa Cove residences overlooking the marina at sunset",
+  },
+  {
+    id: 3,
+    name: "The Crest",
+    address: "101 Prince Charles Crescent, Singapore 159017",
+    price: 2290000,
+    tenure: "99-year Leasehold",
+    top: "2018",
+    type: "Condominium",
+    area: 1033,
+    psf: 2216,
+    bedrooms: "3BR",
+    district: "D03",
+    image: "/images/properties/the-crest.webp",
+    imageAlt:
+      "The Crest condominium swimming pool surrounded by trees and residential towers",
+  },
+  {
+    id: 4,
+    name: "Cairnhill Nine",
+    address: "9 Cairnhill Road, Singapore 229723",
+    price: 2820000,
+    tenure: "99-year Leasehold",
+    top: "2017",
+    type: "Condominium",
+    area: 1033,
+    psf: 2729,
+    bedrooms: "3BR",
+    district: "D09",
+    image: "/images/properties/cairnhill-nine.webp",
+    imageAlt:
+      "Cairnhill Nine condominium entrance and tower along a landscaped city street",
+  },
+  {
+    id: 5,
+    name: "Affinity At Serangoon",
+    address: "58 Serangoon North Avenue 1, Singapore 554329",
+    price: 1180000,
+    tenure: "99-year Leasehold",
+    top: "2024",
+    type: "Condominium",
+    area: 624,
+    psf: 1891,
+    bedrooms: "2BR",
+    district: "D19",
+    image: "/images/properties/affinity-serangoon.webp",
+    imageAlt:
+      "Affinity at Serangoon condominium entrance with planted terraces and apartment blocks",
+  },
+];
